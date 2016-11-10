@@ -6,5 +6,4 @@ The purpose of this project is to make a CYOA project with a parter using github
 Click [here](https://docs.google.com/a/hstat.org/drawings/d/192x9LAdLlZVOv5nfgdnl4IG-rOTXmAYAbIfbIFXPVZA/edit?usp=sharing) to see the gDrawing!  
 Made by [Geoffrey](https://sites.google.com/a/hstat.org/geoffreyl4412sep11/home) and [Amr](https://sites.google.com/a/hstat.org/amra0760sep11/home).
 
-
 ---
